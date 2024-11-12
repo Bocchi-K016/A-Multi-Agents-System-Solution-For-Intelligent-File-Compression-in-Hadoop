@@ -106,7 +106,8 @@ The MAS proved effective in streamlining Hadoop storage management, with efficie
 ## Conclusion
 This project showcases a powerful Multi-Agent System that brings intelligence and efficiency to file compression in Hadoop, significantly optimizing storage and processing performance. By automating compression decisions through coordinated agents, the MAS adapts dynamically to varying data needs, reducing storage costs and enhancing data accessibility.
 
-For a detailed breakdown of the project’s architecture, communication protocols, testing, and future directions, please refer to the full article below:
-
+For a detailed breakdown of the project’s architecture, communication protocols, testing, and future directions, please refer to the full article below: 
+ 
+https://medium.com/@fatimaezzahrakorchi34/collaborative-multi-agent-systems-in-action-optimizing-hadoop-with-intelligent-file-compression-a8178345f05f
 
 
